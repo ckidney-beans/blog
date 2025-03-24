@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pit-lane-talks/"}
+{"dg-publish":true,"permalink":"/pit-lane-talks/","tags":["gardenEntry"]}
 ---
 
 ## This is just a test
