@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pit-lane-talks/","tags":["gardenEntry"],"dgHomeLink":"true","dgShowFileTree":"true","dgEnableSearch":"true","dgShowToc":"true"}
+{"dg-publish":true,"permalink":"/pit-lane-talks/","contentClasses":"true","tags":["gardenEntry"],"dgHomeLink":"true","dgShowFileTree":"true","dgEnableSearch":"true","dgShowToc":"true"}
 ---
 
 ## This is just a test
@@ -11,4 +11,4 @@ Let try a list and maybe a [link](www.google.ca)
 - and here too
 
 
-I think this will work now.
+I think this will work now. Maybe?
