@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pit-lane-talks/","contentClasses":"true","tags":["gardenEntry"],"dgHomeLink":"true","dgShowFileTree":"true","dgEnableSearch":"true","dgShowToc":"true"}
+{"dg-publish":true,"permalink":"/pit-lane-talks/","tags":["gardenEntry"]}
 ---
 
 ## This is just a test
